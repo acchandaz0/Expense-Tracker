@@ -1,0 +1,2 @@
+/Users/afifsupianto/daigaku/Expense-Tracker/android/app/.cxx/Debug/6d6a725q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/afifsupianto/daigaku/Expense-Tracker/android/app/.cxx/Debug/6d6a725q/armeabi-v7a/CMakeFiles/edit_cache.dir
